@@ -1,0 +1,6 @@
+GET https://www.okx.com/api/v5/account/instruments?instType=SWAP
+Accept: application/json
+OK-ACCESS-KEY:63c6dc1d-985d-4acc-bd3f-1c29e51c2508
+OK-ACCESS-TIMESTAMP:2024-08-26T07:14:32.292Z
+OK-ACCESS-SIGN:tB1Lx62ejsTvxMl5TVnTZKWpgGDdp2yEx/DFG9HJPYA=
+OK-ACCESS-PASSPHRASE:Amber275&
